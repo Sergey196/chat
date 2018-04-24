@@ -1,0 +1,59 @@
+#header {
+	background:darkred;
+	width:712px;
+	height:30px;
+}
+
+#menu {
+	background:oldlace;
+	width:712px;
+	height:308px;
+}
+
+#footer {
+	background:darkred;
+	width:712px;
+	height:36px;
+}
+
+#login_users {
+	background:#ffffff;
+	width:210px;
+	height:300px;
+	position:absolute;
+	left:500px;
+	top:40px;
+}
+
+#login {
+	width:700px;
+	height:280px;
+	position:absolute;
+	left:200px;
+	top:10px;
+}
+
+#loginButton {
+	width:100px;
+	height:280px;
+	position:absolute;
+	left:500px;
+	top:12px;
+}
+
+#messegeButton {
+	position:absolute;
+	left:560px;
+	top:355px;
+}
+
+#login_users_list {
+	width: 210px;
+}
+
+#user_panel {
+	width: 210px;
+	height: 130px;
+	background:#80ffff;
+}
+
